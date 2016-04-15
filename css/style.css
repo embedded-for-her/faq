@@ -47,7 +47,7 @@ body.cd-overlay::after {
 }
 
 a {
-  color: #a9c056;
+  color: #4c177d;
   text-decoration: none;
 }
 
@@ -61,14 +61,15 @@ header {
   height: 180px;
   line-height: 180px;
   text-align: center;
-  background-color: #a9c056;
+  background-color: #B7ACC2;
 }
 header h1 {
   color: #ffffff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 20px;
-  font-size: 1.25rem;
+  font-size: 1.75rem;
+  font-weight: 500;
 }
 @media only screen and (min-width: 1024px) {
   header {
@@ -78,7 +79,7 @@ header h1 {
   header h1 {
     font-size: 36px;
     font-size: 2.25rem;
-    font-weight: 300;
+    font-weight: 700;
   }
 }
 
@@ -179,7 +180,7 @@ header h1 {
     left: 0;
     height: 100%;
     width: 3px;
-    background-color: #a9c056;
+    background-color: #4c177d;
     opacity: 0;
     -webkit-transition: opacity 0.2s;
     -moz-transition: opacity 0.2s;
@@ -342,7 +343,7 @@ header h1 {
   font-size: 12px;
   font-size: 0.75rem;
   font-weight: 700;
-  color: #bbbbc7;
+  color: #9b9ba7;
 }
 .no-js .cd-faq-group {
   display: block;
