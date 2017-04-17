@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -51,9 +51,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main components 
+Main components
 
 -------------------------------- */
 header {
@@ -64,12 +64,13 @@ header {
   background-color: #B7ACC2;
 }
 header h1 {
-  color: #ffffff;
+  color: #000000;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 20px;
   font-size: 1.75rem;
-  font-weight: 500;
+  font-weight: 700;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 @media only screen and (min-width: 1024px) {
   header {
